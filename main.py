@@ -14,13 +14,13 @@ print()
 
 
 
-# edad = input("Ingrese su edad: ")
-# print("Su edad es: ", edad)
-# print("es del tipo", type(edad))
+edad = input("Ingrese su edad en números: ")
+print("Su edad es la siguiente: ", edad)
+print("El tipo de dato es: ", type(edad))
 
-# edad = int(float(edad))  # "1.5" -> 1.5 -> 1
-# print("Su edad es: ", edad)
-# print("es del tipo", type(edad))
+edad = int(float(edad))  # "1.5" -> 1.5 -> 1
+print("La edad como int es: ", edad)
+print("El tipo de dato es: ", type(edad))
 
 
 # edad_es_mayor_de_edad = edad >= 18
