@@ -22,7 +22,7 @@ edad = int(float(edad))  # "1.5" -> 1.5 -> 1
 print("La edad como int es: ", edad)
 print("El tipo de dato es: ", type(edad))
 
-
+#asfasf
 # edad_es_mayor_de_edad = edad >= 18
 
 
