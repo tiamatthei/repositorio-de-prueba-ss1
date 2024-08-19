@@ -32,7 +32,7 @@ print("es del tipo", type(edad))
 
 # print("Puede ingresar a la disco:", edad_es_mayor_de_edad and carnet, sep=" ")
 
-
+# Esto es un comentario de prueba!
 
 
 
